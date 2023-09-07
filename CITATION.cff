@@ -1,10 +1,12 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors: 
-  - family-names: "Lisa"
-  given-names: "Mona"
+- family-names: "mukhamedov"
+  given-names: "artjom"
   orcid: "https://orcid.org/0000-0000-0000-0000"
 title: "stu226851 Bachelorarbeit source code"
 version: 1.0
-doi: "https://doi.org/10.1016/j.softx.2020.100630"
+doi: https://doi.org/10.1016/j.softx.2020.100630
 date-released: 2023-09-07
+url: "https://github.com/amukhamedov/stu226851_Bachelorarbeit_source_code"
+
